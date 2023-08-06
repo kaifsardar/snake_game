@@ -1,7 +1,6 @@
-```markdown
 # Snake Game using Python Turtle Graphics 🐍🎮
 
-![Snake Game Screenshot](screenshots/snake_game_screenshot.png)
+![Snake Game Screenshot](https://drive.google.com/drive/u/3/folders/1dpknElqDnLkJ7AHwQUVbsmKODerNG6gb)
 
 ## Introduction
 
@@ -65,5 +64,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Give it a star ⭐️ if you enjoyed playing the Snake Game!
 
 Connect with me on LinkedIn: [Kaif Sardar](https://www.linkedin.com/in/kaifsardar/)
-```
 
