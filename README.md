@@ -1,6 +1,6 @@
 # Snake Game using Python Turtle Graphics 🐍🎮
 
-![Snake Game Screenshot](Screenshot%202023-08-06%20at%201.08.16%20PM.png)
+![Snake Game Screenshot](snake_game_ss.png)
 
 ## Introduction
 
