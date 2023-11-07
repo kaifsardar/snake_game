@@ -17,7 +17,7 @@ Welcome to the Snake Game! This is a classic arcade-style game implemented in Py
 
 Check out this brief video showcasing the Snake Game:
 
-https://drive.google.com/drive/u/3/my-drive
+https://drive.google.com/file/d/1YAWHRcMGO-Fhv8lSwWbIo4fTQgr1ynSf/view?usp=sharing
 
 ## Getting Started
 
